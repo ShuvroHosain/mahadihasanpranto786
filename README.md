@@ -14,9 +14,10 @@
 
 ## 🧐 About
 
-:heavy_check_mark: **My blog :** http://pranto.top
+:heavy_check_mark: **My blog :** http://pranto.wakeupict.com
 <br/>:heavy_check_mark: **How to reach me :** mpranto394@gmail.com
+<br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
-<br/>:heavy_check_mark: **Hobbies :** Books :books: | Music :headphones:
+<br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
 
 ⭐️ From [Mahadi Hasan Pranto](https://github.com/hahadihasanpranto786)

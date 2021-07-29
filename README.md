@@ -8,7 +8,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5581984434580&text=Hi!)]()
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/weltonpfelix/)](https://www.facebook.com/mehedihasanpranto786)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/)](https://space.bilibili.com/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranto)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=pranto)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mahadihasanpranto786&show_icons=true&hide_border=true">
 

@@ -10,7 +10,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://space.bilibili.com/)](https://space.bilibili.com/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pranto)
 
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mahadihasanpranto786&show_icons=true&hide_border=true">
 
 ## 🧐 About
 

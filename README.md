@@ -20,4 +20,3 @@
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
 <br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
 
-⭐️ From [Mahadi Hasan Pranto](https://github.com/hahadihasanpranto786)

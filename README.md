@@ -14,7 +14,7 @@
 
 ## 🧐 About me:
 
-:heavy_check_mark: **My blog :** http://pranto.wakeupict.com
+I loved to research technology's and also problems solver.
 <br/>:heavy_check_mark: **How to reach me :** mpranto394@gmail.com
 <br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	

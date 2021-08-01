@@ -19,4 +19,24 @@
 <br/>:heavy_check_mark: **Post :** Junior Web Developer :computer:	
 <br/>:heavy_check_mark: **Learning :** Full-Stack :zap: | Open-Source :fire:	
 <br/>:heavy_check_mark: **Hobbies :** Books :books: | Codding :green_heart: | Music :headphones: | Piano :musical_keyboard:
-
+## ⚡ Technologies
+### Frontend :
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-green?style=flat-square&logo=jQuery)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
+### Backend :
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-black?style=flat-square&logo=Codeigniter)
+![Php](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+### Database :
+![Mysql](https://img.shields.io/badge/-Mysql-darkblue?style=flat-square&logo=Mysql)
+![Sql](https://img.shields.io/badge/-sql-blue?style=flat-square&logo=sql)
+![Database](https://img.shields.io/badge/-🛢Database-green?style=flat-square&logo=Database)
+### Others Tools:
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white)
+![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)

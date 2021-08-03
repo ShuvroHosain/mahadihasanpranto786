@@ -33,11 +33,8 @@ I loved to research technology's and also problems solver.
 ![Ajax](https://img.shields.io/badge/AJAX-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ### 🛢Database :
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=blue)
-![SQL](https://img.shields.io/badge/-🐘&nbsp;SQL-blue?style=flat-square&logo=SQL)
-![Database-Design](https://img.shields.io/badge/-🛢&nbsp;Design-purple?style=flat-square&logo=Design)
 ### :sparkles:Others Tools:
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
-![Xampp](https://img.shields.io/badge/Xampp-F37623?style=flat-square&logo=xampp&logoColor=white)
